@@ -1,0 +1,12 @@
+/* Center Panel Overlay */
+.center-panel {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    padding: 40px;
+    margin: 100px;
+}
+
+/* Semi-transparent dark overlay for better readability */
+#center-panel {
+    backdrop-filter: blur(2px);
+}
