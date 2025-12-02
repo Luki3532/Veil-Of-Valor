@@ -1,0 +1,1 @@
+This is a python file that automates uploading only the essentials to github
